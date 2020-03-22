@@ -1,0 +1,23 @@
+*.*~
+*.o
+*~
+*.sw*
+*.orig
+
+# macOS
+
+*.dSYM
+.DS_Store
+
+# Eclipse
+.classpath
+.project
+.settings/
+.cproject
+
+# Intellij
+.idea/
+cmake-build-debug/
+
+#Dexygen generated
+html/
